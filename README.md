@@ -1,5 +1,6 @@
-Spotify Music Trends Dashboard 🎵📊
-Overview
+# Spotify Music Trends Dashboard 🎵📊
+
+# Overview
 
 This project analyzes Spotify music data containing over 114,000 tracks to explore patterns in song popularity, energy, danceability, and genre distribution.
 
@@ -7,9 +8,11 @@ Using Power BI, an interactive dashboard was created to visualize key insights a
 
 The goal of this project is to demonstrate data visualization, exploratory data analysis, and dashboard design skills using real-world music data.
 
-Dashboard Preview
+## Dashboard Preview
 
-Key Insights
+![Dashboard](spotify_dashboard.png)
+
+## Key Insights
 
 • Total dataset contains 114K Spotify tracks
 
@@ -21,7 +24,7 @@ Key Insights
 
 • Summary metrics for average popularity, energy, and danceability
 
-Dashboard Features
+## Dashboard Features
 
 The Power BI dashboard includes:
 
@@ -43,13 +46,13 @@ Energy vs Popularity by Genre (Scatter Plot)
 
 These visualizations help identify trends and patterns in music data.
 
-Tools & Technologies
+## Tools & Technologies
 
 • Power BI
 • Data Visualization
 • Exploratory Data Analysis (EDA)
 
-Dataset
+## Dataset
 
 The dataset contains information about Spotify tracks including:
 
@@ -73,21 +76,23 @@ Acousticness
 
 Total records: 114,000+ tracks
 
-Project Structure
+## Project Structure
+
 spotify-music-trends-powerbi-dashboard
 │
 ├── spotify_dashboard.png
 ├── spotify_music_trends_dashboard.pbix
 ├── dataset.csv
 └── README.md
-Skills Demonstrated
+
+## Skills Demonstrated
 
 • Data Visualization
 • Dashboard Design
 • Exploratory Data Analysis
 • Power BI Reporting
 
-Author
+## Author
 
 Himanshu John
 BSc Data Science and Analytics
